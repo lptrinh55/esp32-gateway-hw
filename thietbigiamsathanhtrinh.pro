@@ -1,4 +1,4 @@
-update=Tue 10 Oct 2017 11:29:28 ICT
+update=Thứ ba, 10 Tháng mười Năm 2017 11:55:01 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=libary/SIM800C
 LibName31=libary/esp32-wrover-v3
 LibName32=gps-neo-m6
+LibName33=libary/lm2596s
